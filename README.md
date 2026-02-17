@@ -5,6 +5,8 @@
 🔹 Actuellement en train de travailler sur mes compétences  
 🔹 Curieux de nouvelles technologies et langages  
 
+
+
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2o1eDBtMXZwaDNqZGJzMDNtczNmaWphZm9sM3lvZ2hjcnR2Y2drcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" alt="Cybersecurity GIF" width="300"/>
 </p>

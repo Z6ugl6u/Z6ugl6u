@@ -24,9 +24,6 @@
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Z6ugl6u-blue?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/Z6ugl6u)  
 [![RootMe](https://img.shields.io/badge/RootMe-Z6ugl6u-orange?style=for-the-badge&logo=rootme)](https://www.root-me.org/Z6ugl6u)  
 
-## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Z6ugl6u&show_icons=true&theme=radical)  
-
 ## Me contacter
 [![Discord](https://img.shields.io/badge/Discord-Z6ugl6u-blue?style=for-the-badge&logo=discord)](https://discord.com/users/1307403672199626867) 
 

@@ -1,16 +1,34 @@
-## Hi there 👋
+# Bonjour, je suis Z6ugl6u 👋
 
-<!--
-**Z6ugl6u/Z6ugl6u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## À propos de moi
+🔹 Passionné de cybersécurité et de pentesting  
+🔹 Actuellement en train de travailler sur mes compétences  
+🔹 Curieux de nouvelles technologies et langages  
 
-Here are some ideas to get you started:
+![Cybersecurity GIF](https://media.tenor.com/WxbALsyxywcAAAAM/cyber-monday.gif)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Compétences
+- **Pentesting & Sécurité** : énumération & Exploitation, Vulnérabilités web, Forensic, Stéganographie, Cryptanalyse
+- **Langages** : Python, Bash  
+
+## Projets récents
+*In progress*
+
+## Projets en cours
+- **IA_Pentest** – Une IA autonome capable d’exécuter des tâches de pentesting et de générer des rapports détaillés sur ses découvertes.  
+- **API_Gateway_IA** – Une API pour gérer et orchestrer mes modèles LLM à distance de manière centralisée.
+
+
+
+## Mes plateformes
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Z6ugl6u-blue?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/Z6ugl6u)  
+[![RootMe](https://img.shields.io/badge/RootMe-Z6ugl6u-orange?style=for-the-badge&logo=rootme)](https://www.root-me.org/Z6ugl6u)  
+
+## GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Z6ugl6u&show_icons=true&theme=radical)  
+
+## Me contacter
+[![Discord](https://img.shields.io/badge/Discord-Z6ugl6u-blue?style=for-the-badge&logo=discord)](https://discord.com/users/1307403672199626867) 
+
+---
+

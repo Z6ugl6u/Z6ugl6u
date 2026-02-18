@@ -13,7 +13,6 @@
 
 ## Compétences
 - **Pentesting & Sécurité** : énumération & Exploitation, Vulnérabilités web, Forensic, Stéganographie, Cryptanalyse
-- **Langages** : Python, Bash  
 
 ## Autres Compétences
 

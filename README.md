@@ -68,18 +68,22 @@ drwxr-xr-x  Obsera/
 
 > **`IA_Pentest`** — Une IA autonome capable d’exécuter des tâches de pentesting
 > et de générer des rapports détaillés sur ses découvertes.
+> 
 > `[██████████░░░░░░░░░░] 50% — EN COURS`
 
 > **`API_Gateway_IA`** — Une API pour orchestrer et gérer mes modèles LLM
 > à distance de manière centralisée.
+> 
 > `[████████░░░░░░░░░░░░] 40% — EN COURS`
 
 > **`De_Veyra`** — Pipeline QLoRA de fine-tuning de Veyra (Dolphin Mistral 7B), le moteur IA d’Obsera.
 > Génération de dataset offensif → entraînement → évaluation → export GGUF.
+> 
 > `[██████████████████░░] 90% — EN COURS`
 
 > **`Obsera`** — Assistant intelligent CLI/TUI pour le pentest. Analyse les sorties de terminal en temps réel,
 > détecte les oublis tactiques et propose des actions offensives contextuelles via Veyra.
+> 
 > `[███████████████░░░░░] 75% — EN COURS`
 
 -----

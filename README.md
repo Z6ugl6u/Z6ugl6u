@@ -12,6 +12,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Pentester+in+Training+%F0%9F%92%BB;CTF+Player+%7C+TryHackMe+%7C+Root-Me;Breaking+things+to+build+them+better." alt="Typing SVG" />
 
+
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2o1eDBtMXZwaDNqZGJzMDNtczNmaWphZm9sM3lvZ2hjcnR2Y2drcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" width="280" alt="Cybersecurity GIF"/>
 
 </div>

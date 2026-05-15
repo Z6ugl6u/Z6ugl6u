@@ -93,9 +93,9 @@ drwxr-xr-x  Obsera/
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Z6ugl6u&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Z6ugl6u&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Z6ugl6u&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Z6ugl6u&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Z6ugl6u&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff6e6e&currStreakLabel=00ff41)
 

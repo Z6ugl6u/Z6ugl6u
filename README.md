@@ -26,6 +26,7 @@
 [16:42:07] [INF] ► En constante progression sur mes skills offensifs et dev
 [16:42:07] [INF] ► Curieux insatiable de nouvelles technologies
 [16:42:07] [INF] ► Builder : IA + Sécurité = ma zone de travaille
+[16:42:13] [INF] ► BugHunter à mes temps perdus
 ```
 
 -----
@@ -77,7 +78,7 @@ drwxr-xr-x  Obsera/
 > 
 > `[████████░░░░░░░░░░░░] 40% — EN COURS`
 
-> **`De_Veyra`** — Pipeline QLoRA de fine-tuning de Veyra (Dolphin Mistral 7B), le moteur IA d’Obsera.
+> **`Finetune_Veyra`** — Pipeline QLoRA de fine-tuning de Veyra (Dolphin Mistral 7B), le moteur IA d’Obsera.
 > Génération de dataset offensif → entraînement → évaluation → export GGUF.
 > 
 > `[██████████████████░░] 90% — EN COURS`
@@ -87,6 +88,9 @@ drwxr-xr-x  Obsera/
 > 
 > `[███████████████░░░░░] 75% — EN COURS`
 
+> **`HandBot-ML`** — Main robotique à 5 doigts pilotée à la voix, avec imitation par caméra (MediaPipe + MLP). 
+> Création from scratch, conception 3d, impressiosn 3d, dev, hardware, interface web.
+> `[█████████████████░░░] 85% — EN COURS`
 -----
 
 ## `$ cat stats.txt`

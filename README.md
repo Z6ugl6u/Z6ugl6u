@@ -90,6 +90,7 @@ drwxr-xr-x  Obsera/
 
 > **`HandBot-ML`** — Main robotique à 5 doigts pilotée à la voix, avec imitation par caméra (MediaPipe + MLP). 
 > Création from scratch, conception 3d, impressiosn 3d, dev, hardware, interface web.
+> 
 > `[█████████████████░░░] 85% — EN COURS`
 -----
 
